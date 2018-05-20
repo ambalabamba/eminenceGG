@@ -1,1 +1,1 @@
-worker: python eminencegg.py
+worker: python eminenceGG.py
